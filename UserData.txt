@@ -1,0 +1,8 @@
+,abhishek,hr,narangpura,25,25000
+,gaurav,it,memnagar,24,20000
+,dharti,hr,pragati nagar,23,26000
+,krupa,hr,bopal,22,24000
+,lata,admin,shivranjani,21,23000
+,riti,it,satellite,23,22000
+,bhupendra,manager,jodhpur,22,21000
+,mukesh,manager,science city,21,20000
